@@ -45,7 +45,7 @@
 
 ## Output:
 
-### Name: HARINI R
+### Name: PERARASU M
 ### Register Number:212222100033
 ![Screenshot 2024-10-24 160929](https://github.com/user-attachments/assets/3661ae7f-a2dc-4732-9e12-e5888a6a8571)
 
